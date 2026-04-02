@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61c25311-f08b-4496-8bf6-a12557fa1319" name="更改" comment="" />
+    <list default="true" id="61c25311-f08b-4496-8bf6-a12557fa1319" name="更改" comment="add 3.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +22,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0,
-  "fromUser": false
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "searchQuery": "master",
+      "state": "OPEN",
+      "assignee": "forgetCodeNow"
+    }
+  ],
+  "lastFilter": {
+    "searchQuery": "master",
+    "state": "OPEN",
+    "assignee": "forgetCodeNow"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:forgetCodeNow/zzh.git",
+    "accountId": "1fa5af4a-95f4-4eb6-b066-930640f4ed21"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Bl4ZrvDbwAp21EAOviwheMpDs1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +58,7 @@
     "Python.变量.executor": "Run",
     "Python.引号.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
@@ -88,11 +111,25 @@
       <option name="presentableId" value="Default" />
       <updated>1775050384008</updated>
       <workItem from="1775050385272" duration="6326000" />
+      <workItem from="1775141626618" duration="1098000" />
     </task>
+    <task id="LOCAL-00001" summary="add 3.txt">
+      <option name="closed" value="true" />
+      <created>1775142604724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775142604724</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add 3.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 3.txt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main 覆盖结果" MODIFIED="1775051183435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
