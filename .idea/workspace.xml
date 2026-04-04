@@ -4,18 +4,19 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61c25311-f08b-4496-8bf6-a12557fa1319" name="更改" comment="update puthon_basic name">
-      <change afterPath="$PROJECT_DIR$/python_basic/day_one/01_变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/day_one/02_常量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/day_one/03_注释.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/day_one/04_数据类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/day_one/05_字符串格式化输出.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/day_one/06_数据类型转换.py" afterDir="false" />
+    <list default="true" id="61c25311-f08b-4496-8bf6-a12557fa1319" name="更改" comment="学习python基础课程9-24示例代码">
+      <change afterPath="$PROJECT_DIR$/python_basic/day_2/01_运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/day_2/02_进制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/day_2/03_流程控制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/day_2/04_循环语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/day_2/九九乘法表.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic/day_one/01_变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/day_1/01_变量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic/day_one/02_常量.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/day_1/02_常量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic/day_one/03_注释.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/day_1/03_注释.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic/day_one/04_数据类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/day_1/04_数据类型.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic/day_one/05_字符串格式化输出.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/day_1/05_字符串格式化输出.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic/day_one/06_数据类型转换.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/day_1/06_数据类型转换.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +72,14 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.01_变量.executor": "Run",
+    "Python.01_运算符.executor": "Run",
+    "Python.01_进制.executor": "Run",
+    "Python.03_流程控制.executor": "Run",
+    "Python.04_循环语句.executor": "Run",
     "Python.05_字符串格式化输出.executor": "Run",
     "Python.06_数据类型转换.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.九九乘法表.executor": "Run",
     "Python.变量.executor": "Run",
     "Python.引号.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -131,7 +137,8 @@
       <updated>1775050384008</updated>
       <workItem from="1775050385272" duration="6326000" />
       <workItem from="1775141626618" duration="1098000" />
-      <workItem from="1775223337862" duration="7273000" />
+      <workItem from="1775223337862" duration="7712000" />
+      <workItem from="1775270943030" duration="14080000" />
     </task>
     <task id="LOCAL-00001" summary="add 3.txt">
       <option name="closed" value="true" />
@@ -157,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775223438281</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="学习python基础课程9-24示例代码">
+      <option name="closed" value="true" />
+      <created>1775230750450</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775230750450</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,13 +193,16 @@
     <MESSAGE value="add 3.txt" />
     <MESSAGE value="4.txt -444" />
     <MESSAGE value="update puthon_basic name" />
-    <option name="LAST_COMMIT_MESSAGE" value="update puthon_basic name" />
+    <MESSAGE value="学习python基础课程9-24示例代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习python基础课程9-24示例代码" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main 覆盖结果" MODIFIED="1775224593400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME="变量 覆盖结果" MODIFIED="1775052479734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础语法" />
+    <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main 覆盖结果" MODIFIED="1775272276201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$04_.coverage" NAME="04_循环语句 覆盖结果" MODIFIED="1775301408904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day_2" />
+    <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME="九九乘法表 覆盖结果" MODIFIED="1775302296030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day_2" />
+    <SUITE FILE_PATH="coverage/pythonProject$03_.coverage" NAME="03_流程控制 覆盖结果" MODIFIED="1775297244839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day_2" />
     <SUITE FILE_PATH="coverage/pythonProject$06_.coverage" NAME="06_数据类型转换 覆盖结果" MODIFIED="1775230151893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day_one" />
-    <SUITE FILE_PATH="coverage/pythonProject$01_.coverage" NAME="01_变量 覆盖结果" MODIFIED="1775224599187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day_one" />
+    <SUITE FILE_PATH="coverage/pythonProject$01_.coverage" NAME="01_进制 覆盖结果" MODIFIED="1775275409976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day_2" />
     <SUITE FILE_PATH="coverage/pythonProject$05_.coverage" NAME="05_字符串格式化输出 覆盖结果" MODIFIED="1775228381197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day_one" />
   </component>
 </project>
